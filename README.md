@@ -3,8 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React.Js, Node.js, React Native, Next.js and Java
+- 🌱 I’m currently learning React.Js, Node.js, React Native, Next.js
+
 - 🤔 I’m looking for help with my first Job in IT
+
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
 
 
