@@ -1,22 +1,22 @@
-## Olá! Eu sou Mateus, Estudante de programação e tecnologia!  👋
+## Olá! Eu sou Mateus, Analista de Dados!  👋
 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React.Js, Node.js, React Native, Next.js
-
-- 🤔 I’m looking for help with my first Job in IT
+- 🌱 I’m currently learning Python, SQL, React.Js, Node.js, React Native, Next.js
 
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
 
 
 <div align="center">
   <a href="https://github.com/mateussoliv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussoliv&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussoliv&show_icons=true&layout=compact&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussoliv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Mateus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
