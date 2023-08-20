@@ -1,4 +1,4 @@
-## Olá! Eu sou Mateus, Analista de Dados!  👋
+## Olá! Eu sou Mateus, Analista/Engenheiro de Dados!  👋
 
 
 Here are some ideas to get you started:
