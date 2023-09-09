@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Python, SQL, React.Js, Node.js, React Native, Next.js
+- 🌱 I’m currently learning Java,Spring Boot,  Python, SQL, React.Js, Node.js, Next.js
 
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
 
