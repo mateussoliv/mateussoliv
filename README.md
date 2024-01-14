@@ -1,9 +1,9 @@
-## Olá! Eu sou Mateus, Analista/Engenheiro de Dados!  👋
-
+# Olá! Eu sou Mateus, Desenvolvedor Full-Stack(Front-End / Back-End) Em busca de uma oportunidade! 😄😄😄
+## Busco experiência em programação e ofereço meu trabalho de forma voluntária para aprender e contribuir em projetos.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Python, Django, Java, Spring Boot, SQL, React.Js, Node.js and Next.js
+- 🌱 I’m currently learning Python, Django, JavaScript, TypeScript, React.Js, SQL, Node.js and Next.js
 
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
 
