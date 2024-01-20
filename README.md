@@ -2,7 +2,7 @@
 #### Busco experiência em Analista/Engenharia de Dados e ofereço meu trabalho de forma voluntária para aprender e contribuir em projetos.
 <br>
 
-- I have experience in Python, SQL,  Power BI, Looker,  Excel and SSIS(ETL)
+- 👨🏾‍💻 I have experience in Python, SQL,  Power BI, Looker,  Excel and SSIS(ETL)
 
 - 🌱 I’m currently learning Django, MongoDB, Azure and AWS
 
