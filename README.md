@@ -1,5 +1,5 @@
-# Olá! Eu sou Mateus, Desenvolvedor Full-Stack(Front-End / Back-End) Em busca de uma oportunidade! 😄😄😄
-## Busco experiência em programação e ofereço meu trabalho de forma voluntária para aprender e contribuir em projetos.
+# Olá! Eu sou Mateus atualmente Analista de Dados Senior e estudante em Desenvolvimento Full-Stack(Front-End / Back-End) Em busca de uma oportunidade! 😄😄😄
+## Busco experiência em programação/Engenharia de Dados e ofereço meu trabalho de forma voluntária para aprender e contribuir em projetos.
 <br>
 
 Here are some ideas to get you started:
