@@ -1,10 +1,13 @@
-### Olá! Eu sou Mateus atualmente Analista de BI Senior e estudante de Engenharia de Dados Em busca de uma oportunidade! 😄😄😄
-#### Busco experiência em Analista/Engenharia de Dados e ofereço meu trabalho de forma voluntária para aprender e contribuir em projetos.
+### Hello! I'm Mateus currently Senior BI Analyst and Full-Stack Developer Student / Data Engineering student Looking for an opportunity! 😄😄😄
+<hr>
+
+#### I'm looking for experience in Front-End and Back-End Developer / Data Engineering and I volunteer my work to learn and contribute to projects.
+
 <br>
 
-- 👨🏾‍💻 I have experience in Python, SQL,  Power BI, Looker,  Excel and SSIS(ETL)
+- 👨🏾‍💻 I have experience in JavaScript, Python, SQL, Power BI, Looker, Excel, SSIS(ETL), HTML, CSS and Bootstrap.
 
-- 🌱 I’m currently learning Django, MongoDB, Azure and AWS
+- 🌱 I’m currently learning React.jS, Node.js, Django, MongoDB, Azure and AWS.
 
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
 
