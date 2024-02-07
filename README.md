@@ -1,19 +1,23 @@
-### Hello! I'm Mateus currently Senior BI Analyst and Data Engineering student Looking for an opportunity! 😄😄😄
+### Hello! I'm Mateus currently Senior BI/Data Analyst and Data Engineering student Looking for an opportunity! 😄😄😄
 <hr>
 
-#### I'm looking for experience in Data Engineering / Front-End and Back-End Developer and I volunteer my work to learn and contribute to projects.
+#### I'm looking for experience in Data Engineering, Data Analyst or Back-End Developer and I volunteer my work to learn and contribute to projects.
 
 <br>
 
-- 👨🏾‍💻 I have experience in Python, SQL, Power BI, Looker, Excel, SSIS(ETL), JavaScript, HTML, CSS and Bootstrap.
+- 👨🏾‍💻 I have experience in: Python(Pandas, Numpy, Matplotlib and Seaborn), SQL, Power BI, Looker, Excel, SSIS(ETL) and Azure SQL(Cloud).
 
-- 🌱 I’m currently learning  Django, MongoDB, Azure, AWS, React.jS and Node.js.
+- 🌱 I’m currently learning: Azure, PySpark, Apache Spark, Hadoop, SnowFlake, AirFlow, Django(API) and MongoDB(NOSQL).
+
+- 🤖 Enthusiastic and learning in my spare time: Machine Learning,  TensorFlow, Pytorch and Automation with Python
 
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
+- 🙏 My Portfolio: https://www.datascienceportfol.io/mateussoliv
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Mateus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Mateus-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Mateus-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
