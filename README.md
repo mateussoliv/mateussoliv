@@ -11,7 +11,7 @@
 
 - 🤖 Enthusiastic and learning in my spare time: Machine Learning,  TensorFlow, Pytorch and Automation with Python
 
-- 📫 How to reach me: https://www.linkedin.com/in/mateus-s-oliveira-b27a2a189/
+- 📫 How to reach me: www.linkedin.com/in/mateussoliv
 - 🙏 My Portfolio: https://www.datascienceportfol.io/mateussoliv
 
  <div style="display: inline_block"><br>
