@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: Azure, PySpark, Apache Spark, Hadoop, SnowFlake, AirFlow, Django(API) and MongoDB(NOSQL).
 
-- 🤖 Enthusiastic and learning in my spare time: Machine Learning,  TensorFlow and Automation with Python
+- 🤖 Enthusiastic and learning in my spare time: Java, Kotlin for Android Development
 
 - 📫 How to reach me: www.linkedin.com/in/mateussoliv
 - 🙏 My Portfolio: https://www.datascienceportfol.io/mateussoliv
