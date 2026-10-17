@@ -34,12 +34,6 @@ Currently working as a Senior BI/Data Coordinator while expanding my expertise i
 - API Integration and Data-Driven Applications
 
 ---
-
-### 🌱 Currently Exploring
-Building end-to-end data solutions, from data ingestion and transformation to analytics, LLM-powered applications, and autonomous AI agents.
-My current focus is on combining **Data Engineering + AI Engineering** to develop scalable pipelines, intelligent automation, and practical AI solutions.
----
-
 ### 🤝 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/mateussoliv](https://www.linkedin.com/in/mateussoliv)
 - 📂 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/mateussoliv)
