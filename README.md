@@ -1,19 +1,16 @@
-### 👋 Hello! I'm Mateus — Senior BI/Data Coordinator | Aspiring Data Engineer & AI Engineer
+### I'm Mateus — Senior BI/Data Coordinator | Aspiring Data Engineer & AI Engineer
 
 I'm passionate about transforming raw data into actionable insights and building data-driven solutions using **Data Engineering, Artificial Intelligence, and AI Agents**.
-Currently working as a Senior BI/Data Coordinator while expanding my expertise in Data Engineering, AI Engineering, and Backend Development. I'm interested in contributing to open-source initiatives and collaborative projects where I can apply my skills, solve real-world problems, and continue learning.
-
+Currently working as a Senior BI/Data Coordinator while expanding my expertise in Data Engineering, AI Engineering, and Backend Development. 
 ---
-### 🛠️ Technologies & Skills
-
-**📊 Data Analytics & Business Intelligence**
+** Data Analytics & Business Intelligence**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL, Power BI, Looker, Excel
 - Data Modeling, DAX, KPI Development
 - ETL/ELT Processes and SSIS
 - Azure SQL and Cloud Data Solutions
 
-**⚙️ Data Engineering**
+** Data Engineering**
 - Python & SQL for Data Processing
 - ETL/ELT Pipelines and Data Integration
 - Apache Spark, PySpark & Hadoop
@@ -28,15 +25,15 @@ Currently working as a Senior BI/Data Coordinator while expanding my expertise i
 - OpenRouter and LLM API Integration
 - Data Automation and AI-Powered Applications
 
-**💻 Backend Development**
+** Backend Development**
 - Python and Django REST APIs
 - MongoDB and NoSQL Databases
 - API Integration and Data-Driven Applications
 
 ---
-### 🤝 Let's Connect!
-- 💼 LinkedIn: [linkedin.com/in/mateussoliv](https://www.linkedin.com/in/mateussoliv)
-- 📂 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/mateussoliv)
+### Let's Connect!
+- LinkedIn: [linkedin.com/in/mateussoliv](https://www.linkedin.com/in/mateussoliv)
+- Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/mateussoliv)
 
 I'm open to collaborating on projects involving **Data Engineering, AI Agents, LLMs, Data Analytics, and Backend Development**.
 
