@@ -1,18 +1,50 @@
-### Hello! I'm Mateus currently Senior BI/Data Analyst and Data Engineering student Looking for an opportunity! 😄😄😄
-<hr>
+### 👋 Hello! I'm Mateus — Senior BI/Data Coordinator | Aspiring Data Engineer & AI Engineer
 
-#### I'm looking for experience in Data Engineering, Data Analyst or Back-End Developer and I volunteer my work to learn and contribute to projects.
+I'm passionate about transforming raw data into actionable insights and building data-driven solutions using **Data Engineering, Artificial Intelligence, and AI Agents**.
+Currently working as a Senior BI/Data Coordinator while expanding my expertise in Data Engineering, AI Engineering, and Backend Development. I'm interested in contributing to open-source initiatives and collaborative projects where I can apply my skills, solve real-world problems, and continue learning.
 
-<br>
+---
+### 🛠️ Technologies & Skills
 
-- 👨🏾‍💻 I have experience in: Python(Pandas, Numpy, Matplotlib and Seaborn), SQL, Power BI, Looker, Excel, SSIS(ETL) and Azure SQL(Cloud).
+**📊 Data Analytics & Business Intelligence**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL, Power BI, Looker, Excel
+- Data Modeling, DAX, KPI Development
+- ETL/ELT Processes and SSIS
+- Azure SQL and Cloud Data Solutions
 
-- 🌱 I’m currently learning: Azure, PySpark, Apache Spark, Hadoop, SnowFlake, AirFlow, Django(API) and MongoDB(NOSQL).
+**⚙️ Data Engineering**
+- Python & SQL for Data Processing
+- ETL/ELT Pipelines and Data Integration
+- Apache Spark, PySpark & Hadoop
+- Apache Airflow and Workflow Orchestration
+- Snowflake, Azure & Cloud Data Engineering
 
-- 🤖 Enthusiastic and learning in my spare time: Java, Kotlin for Android Development
+**🤖 AI Engineering & AI Agents**
+- Large Language Models (LLMs)
+- AI Agents and Agentic Workflows
+- LangChain & LangFlow
+- Retrieval-Augmented Generation (RAG)
+- OpenRouter and LLM API Integration
+- Data Automation and AI-Powered Applications
 
-- 📫 How to reach me: www.linkedin.com/in/mateussoliv
-- 🙏 My Portfolio: https://www.datascienceportfol.io/mateussoliv
+**💻 Backend Development**
+- Python and Django REST APIs
+- MongoDB and NoSQL Databases
+- API Integration and Data-Driven Applications
+
+---
+
+### 🌱 Currently Exploring
+Building end-to-end data solutions, from data ingestion and transformation to analytics, LLM-powered applications, and autonomous AI agents.
+My current focus is on combining **Data Engineering + AI Engineering** to develop scalable pipelines, intelligent automation, and practical AI solutions.
+---
+
+### 🤝 Let's Connect!
+- 💼 LinkedIn: [linkedin.com/in/mateussoliv](https://www.linkedin.com/in/mateussoliv)
+- 📂 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/mateussoliv)
+
+I'm open to collaborating on projects involving **Data Engineering, AI Agents, LLMs, Data Analytics, and Backend Development**.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
