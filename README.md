@@ -1,7 +1,7 @@
 ### I'm Mateus — Senior BI/Data Coordinator | Aspiring Data Engineer & AI Engineer
 
-I'm passionate about transforming raw data into actionable insights and building data-driven solutions using **Data Engineering, Artificial Intelligence, and AI Agents**.
-Currently working as a Senior BI/Data Coordinator while expanding my expertise in Data Engineering, AI Engineering, and Backend Development. 
+#### I'm passionate about transforming raw data into actionable insights and building data-driven solutions using **Data Engineering, Artificial Intelligence, and AI Agents**.
+#### Currently working as a Senior BI/Data Coordinator while expanding my expertise in Data Engineering, AI Engineering, and Backend Development. 
 ---
 ** Data Analytics & Business Intelligence**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
